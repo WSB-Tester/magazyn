@@ -18,13 +18,17 @@ https://itsfoss.com/install-atom-ubuntu/ - atom, ten ktory byl na zajeciach i je
 
 Podstawy gita:
 
-$git init - inicjalizacja repo, mozna w tej grupie sobie tworzyc repozytoria itd, mamy nielimitowane repo publiczne
+$ git clone <link> - pozwala na pobranie zewnetrznego repozytorium z sieci - link mamy np. na githubie na widoku ogolnym repozytorium
 
-$git status - warto sprawdzac co mamy do zacommitowania, git status pokazuje nam rowniez aktywny branch w gicie (pierwsza linijka, np "On branch master" albo "On branch maniek")
+$ git init - inicjalizacja repo, mozna w tej grupie sobie tworzyc repozytoria itd, mamy nielimitowane repo publiczne
 
-$git add <nazwa-pliku> (raczej nie uzywajmy git add . bo sie moze pokaszanic)
+$ git status - warto sprawdzac co mamy do zacommitowania, git status pokazuje nam rowniez aktywny branch w gicie (pierwsza linijka, np "On branch master" albo "On branch maniek")
 
-$git commit -m "komentarz" (dobre praktyki mowia, zeby komentarze mialy strukture typu "Add costam costam" - co wynika ze stwierdzenia "When merged this commit will <komentarz> - jednakze nie musimy sie koniecznie do tego stosowac)
+$ git add <nazwa-pliku> (raczej nie uzywajmy git add . bo sie moze pokaszanic)
+
+$ git commit -m "komentarz" (dobre praktyki mowia, zeby komentarze mialy strukture typu "Add costam costam" - co wynika ze stwierdzenia "When merged this commit will <komentarz> - jednakze nie musimy sie koniecznie do tego stosowac)
+
+$ git pull - pobiera nam zmiany z githuba na aktualnym branchu
 
 Zaawansowany git:
 
@@ -37,6 +41,23 @@ $ git checkout <nazwa-brancha> - zmienia nasz aktywny branch na ten podany jako 
 czyli przykladowo $ git checkout maniek -> przelaczy nas na brancha 'maniek'. Warto zawsze sprawdzic komenda git branch na ktory branch pushujemy zmiany :) 
                                 
 Przydatny link: https://git-scm.com/book/pl/v1/Ga%C5%82%C4%99zie-Gita-Podstawy-rozga%C5%82%C4%99ziania-i-scalania
+
+
+
+Zadanie :)
+
+Stworzyc sobie folder na komputerze
+
+Sklonowac sobie do tego folderu nasze repozytorium 'magazyn' z projektu (link: https://github.com/WSB-Tester/magazyn.git)
+
+Pobrac sobie to repozytorium na lokalny komputer (git pull)
+
+Stworzyc sobie swoj branch (np. od imienia, ksywy, czego tam chcecie)
+
+
+A potem to mozna sobie przelaczyc sie na branch 'maniek', poedytowac cos, potem przed git add, git commit przelaczyc sie na swoj branch, ktory juz stworzyliscie i tam wrzucic zmiany :) 
+
+Jak juz bedzie tak daleko, to ogarniemy merge do 'mastera' zeby sobie mozna bylo fajnie pykac z tym kodem :) 
 
 
 
