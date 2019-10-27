@@ -1,6 +1,6 @@
 # To jest grupa Tester WSB, ktora zalozylem zebysmy mogli wspolnie pogrzebac w jakichs projektach albo cos podlubac :)
 
-Zeby to bylo czytelne, bo podglad zbija tekst w calosc polecam kliknac w olowek - edycje tego pliku, aby sobie przejrzec i bylo wygodnie :)
+Slowem wstepu - na branchu master jest wrzucony nasz kod z zajec z magazynem, ja sobie go jeszcze sklonowalem na brancha maniek - to bedzie docelowo moj branch 'produkcyjny' naszej wypasionej aplikacji :)
 
 ## WAZNE
 Stworzylem nam grupe na hangoutsie, zeby mozna sie jakos kulturalnie kontaktowac, polecam wtyczke:
