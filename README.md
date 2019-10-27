@@ -1,5 +1,7 @@
 # To jest grupa Tester WSB, ktora zalozylem zebysmy mogli wspolnie pogrzebac w jakichs projektach albo cos podlubac :)
 
+Zeby to bylo czytelne, bo podglad zbija tekst w calosc polecam kliknac w olowek - edycje tego pliku, aby sobie przejrzec i bylo wygodnie :)
+
 ## WAZNE
 Stworzylem nam grupe na hangoutsie, zeby mozna sie jakos kulturalnie kontaktowac, polecam wtyczke:
 https://chrome.google.com/webstore/detail/google-hangouts/nckgahadagoaajjgafhacjanaoiihapd?hl=pl
